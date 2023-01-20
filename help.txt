@@ -1,0 +1,24 @@
+********************************************************************
+welcome to shopping list here there is some commands which help you.
+our shopping list have 3 category .
+for access to intended category enter the number of category .
+    1) Grocery
+    2) Cosmetics
+    3) Vegetable
+--------------------------------------------------------------------
+enter  "Q" to Exit . 
+--------------------------------------------------------------------
+enter "Add" to add list .
+---------------------------------------------------------------------
+enter "Price" to display items price 
+---------------------------------------------------------------------
+enter "Show" to Show shopping lists .
+---------------------------------------------------------------------
+enter "Edit" to Edit the lists .
+---------------------------------------------------------------------
+enter "Search" to Search into the lists .
+---------------------------------------------------------------------
+enter "Buy" to buy lists.
+---------------------------------------------------------------------
+enter "Help" to show Help commands .
+*********************************************************************

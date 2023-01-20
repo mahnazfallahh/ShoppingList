@@ -1,0 +1,47 @@
+{
+    "cream": {
+        "price": 1200,
+        "stack": 10,
+        "category": "cosmetics"
+},
+    "spray": {
+        "price": 340000,
+        "stack": 10,
+        "category": "cosmetics"
+},
+    "lipstick": {
+        "price": 3400000,
+        "stack": 10,
+        "category": "cosmetics"
+},
+    "carrot": {
+        "price": 40000,
+        "stack": 10,
+        "category": "vegetable"
+},
+    "cucumber": {
+        "price": 4000,
+        "stack": 10,
+        "category": "vegetable"
+},
+    "lettuce": {
+        "price": 1000,
+        "stack": 10,
+        "category": "vegetable"
+},
+    "rice": {
+        "price": 1000,
+        "stack": 10,
+        "category": "grocery"
+},
+    "sugar": {
+        "price": 80000,
+        "stack": 10,
+        "category": "grocery"
+},
+    "walnut": {
+        "price": 90000,
+        "stack": 10,
+        "category": "grocery"
+}
+}
